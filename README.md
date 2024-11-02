@@ -5,9 +5,9 @@ This project demonstrates the application of SQL in building a sales data analys
 
 This project highlights several SQL concepts, including:
 
-Database Design: Defining relational tables and setting up primary and foreign keys to maintain data integrity.
-Data Insertion and Population: Using INSERT statements to populate tables with sample data.
-Data Filtering and Aggregation: Leveraging SQL queries with GROUP BY, JOIN, and filtering clauses to gather insights from the data.
+-**Database Design**: Defining relational tables and setting up primary and foreign keys to maintain data integrity.
+-**Data Insertion** and Population: Using INSERT statements to populate tables with sample data.
+-**Data Filtering and Aggregation**: Leveraging SQL queries with GROUP BY, JOIN, and filtering clauses to gather insights from the data.
 Complex Queries: Combining multiple tables through JOIN operations to analyze customer orders, product categories, and regional sales, allowing us to dive deep into sales trends and customer behavior.
 
 ## Project Objectives
